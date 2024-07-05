@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+My Published Portfolio Page Link
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Please Visit it.
+
+https://legendary-chimera-21c773.netlify.app/
